@@ -20,11 +20,13 @@ Many clinics in Sierra Leone still manage waiting lines by hand, and since the 2
 <img width="758" height="1080" alt="WhatsApp Image 2026-11-18 at 8 19 51 AM" src="https://github.com/user-attachments/assets/13fd12db-bc4f-4081-be70-14bafb3f3462" />
 <img width="799" height="1080" alt="WhatsApp Image 2026-11-18 at 8 19 51 AM (1)" src="https://github.com/user-attachments/assets/36c7a2a5-7c30-42e1-aa98-8045ad6acb68" />
 <img width="792" height="1080" alt="WhatsApp Image 2026-11-18 at 8 19 51 AM (2)" src="https://github.com/user-attachments/assets/f78870cc-c27e-4dab-a047-ed6bb6811b1e" />
+
 # PROJECT FLOWCHARTS SCREENSHOTS
 <img width="895" height="1080" alt="WhatsApp Image 2026-11-18 at 8 30 30 AM" src="https://github.com/user-attachments/assets/9ca91e17-b14f-4472-a5dc-f435e2c1f580" />
 <img width="848" height="1080" alt="WhatsApp Image 2026-11-18 at 8 30 30 AM (1)" src="https://github.com/user-attachments/assets/df27b03d-c27d-491a-85b7-5ef1d196eb7a" />
 <img width="930" height="1080" alt="WhatsApp Image 2026-11-18 at 8 30 30 AM (2)" src="https://github.com/user-attachments/assets/37851063-754d-48ff-b101-3399a7185a61" />
 <img width="843" height="1080" alt="WhatsApp Image 2026-11-18 at 8 30 30 AM (3)" src="https://github.com/user-attachments/assets/ebe39a17-009a-4dc5-abdb-63e2ae595bd2" />
+
 # SDG ALIGNMENT
 The Clinic Queue Helper System supports Sustainable Development Goal 3, Good Health and Well-being, and in particular target 3.8 on access to quality essential health-care services for all. A fair, organised queue means patients know when they will be seen, priority cases are handled sooner, and staff spend less time managing the line and more time on care. The system is an administrative tool only: it does not diagnose patients or improve medical treatment by itself, but it helps clinics deliver their existing services in a more orderly and equitable way.
 # PROJECT AUTHOR
