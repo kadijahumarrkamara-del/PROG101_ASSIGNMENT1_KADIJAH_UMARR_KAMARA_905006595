@@ -30,3 +30,5 @@ Many clinics in Sierra Leone still manage waiting lines by hand, and since the 2
 # SDG ALIGNMENT
 The Clinic Queue Helper System supports Sustainable Development Goal 3, Good Health and Well-being, and in particular target 3.8 on access to quality essential health-care services for all. A fair, organised queue means patients know when they will be seen, priority cases are handled sooner, and staff spend less time managing the line and more time on care. The system is an administrative tool only: it does not diagnose patients or improve medical treatment by itself, but it helps clinics deliver their existing services in a more orderly and equitable way.
 # PROJECT AUTHOR
+KADIJAH UMARR KAMARA 
+ID : 905006595
