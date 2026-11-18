@@ -1,4 +1,4 @@
-# PROG101_Assignment1_Kadijah_Kamara_905006595
+# PROG101_ASSIGNMENT1_KADIJAH_UMARR_KAMARA_905006595
 Clini_Queue is a digital system management system designed to improve patient flow and reduce waiting times in health care facilities
 # PROJECT BACKGROUND
 Many clinics in Sierra Leone still manage waiting lines by hand, and since the 2010 Free Health Care Initiative they serve more patients than ever. Paper lists lead to missed names, patients called out of turn and uncertain waits. The Clinic Queue Helper System is a simple front-desk tool that gives each patient a token, keeps a fair first-come, first-served queue, lets staff mark priority patients, and calls the next patient only when the room and health worker are ready.
